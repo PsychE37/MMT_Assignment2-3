@@ -1,6 +1,6 @@
 % Define frame lengths and overlap percentages
 frame_lengths = [0.2, 0.4, 0.6];
-overlap_percentages = [0.5, 0.75];  % Example overlap percentages
+overlap_percentages = [0.5, 0.75];
 
 % Calculate hop factors
 hop_factors = 1 - overlap_percentages;
